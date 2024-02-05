@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-   // printf() displays the string inside quotation
+   // Quebrando a maldição a lingaguem C
    printf("Hello, World!");
    return 0;
 }
